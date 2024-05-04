@@ -1,0 +1,45 @@
+.Sofine-form label {
+    display: block;
+    font-weight: 900;
+    margin-bottom: 5px;
+}
+.Sofine-form label span{
+    color: red;
+    font-size: 15px;
+}
+
+.Sofine-form input {
+
+    width: 100%;
+    padding: 10px;
+    outline: 0;
+    border: 1px solid gray;
+    border-radius: 3px;
+
+}
+.Sofine-form textarea {
+
+    width: 100%;
+    padding: 10px;
+    outline: 0;
+    border: 1px solid gray;
+    border-radius: 3px;
+
+}
+
+.contact-detail-wrap{
+    margin: 30px 0 0 80px;
+}
+.contact-detail-wrap h6{
+    font-weight: 900;
+    font-style: italic;
+}
+.contact-detail-wrap p{
+    font-size: 13px;
+    font-weight: 600;
+}
+.contact-detail-wrap p svg{
+    font-size: 20px;
+    font-weight: 900;
+    margin-right: 10px;
+}

@@ -1,0 +1,45 @@
+
+.cart_ui_block{
+    background-color: #f6f6f8;
+    padding: 15px;
+    border-left: 2px solid #626262;
+    margin: 0px 15px;
+}
+.cart-table{
+    width: 100%;
+}
+
+.cart-table tr{
+    border-bottom: 1px solid lightgray;
+}
+
+.cart-table tr td, .cart-table tr th{padding: 10px; font-size: 13px; text-align: center;}
+
+.cart-table tr td:last-child, .cart-table tr th:last-child{text-align: end;}
+.cart-table tr td:first-child, .cart-table tr th:first-child{text-align: start;}
+.cart-table tr td img, .cart-table tr th img{
+    width: 35px;
+}
+.Billing-section h5{
+    font-weight: 900;
+    font-size: 20px;
+}
+.billing-table{
+    margin-top:10px;
+    width: 100%;
+}
+.billing-table tr td:first-child{
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 5px;
+    font-style: italic;
+}
+.billing-table tr td:last-child{
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px 5px;
+    text-align: end;
+}
+.billing-table tr{
+    border-bottom:1px solid lightgray;
+}

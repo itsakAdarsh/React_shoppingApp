@@ -1,0 +1,278 @@
+{
+  "products": [
+    {
+      "quantity": 1,
+      "category": "Shoes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia arcu in est malesuada, id iaculis odio aliquet. Nullam ac volutpat eros. Integer ac volutpat purus. Fusce quis quam eu arcu cursus convallis. Nullam congue tristique enim, eu iaculis odio consequat sit amet. Nullam vitae ultricies libero",
+      "discountPercentage": 12.96,
+      "id": 1,
+      "images": [
+        "/img/cards/TheItalianLeatherSquareToeChelseaBoot_540x.jpg",
+        "/img/cards/TheItalianLeatherSquareToeChelseaBoot2_540x.jpg"
+      ],
+      "length": 5,
+      "price": 70,
+      "subtotal": 0,
+      "rating": 4.69,
+      "title": "The Italian Leathee Chelsea Boot",
+      "sizes": [
+        {
+          "Small": [21, 22, 23],
+          "Medium": [26, 27, 28],
+          "Large": [32, 33, 33]
+        }
+      ],
+      "new": 1,
+      "detail": "Dummy Detail Come Form Api Anything",
+      "material":"Dummy Detail Come From Api Anything",
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#d93939"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#a75713"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "category": "Bags",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia arcu in est malesuada, id iaculis odio aliquet. Nullam ac volutpat eros. Integer ac volutpat purus. Fusce quis quam eu arcu cursus convallis. Nullam congue tristique enim, eu iaculis odio consequat sit amet. Nullam vitae ultricies libero",
+      "discountPercentage": 20,
+      "id": 2,  
+      "images": [
+        "/img/cards/TheItalianLeatherStudioBag_540x.jpg",
+        "/img/cards/TheItalianLeatherStudioBag2_540x.jpg"
+      ],
+      "length": 5,
+      "price": 90,
+      "subtotal": 0,
+      "rating": 3,
+      "title": "The Italian Leather Studio Bag",
+      "sizes": [
+        {
+          "Small": ["X-SM", "SM"],
+          "Medium": ["M"],
+          "Large": ["L", "XL", "XLL"]
+        }
+      ],
+      "new": 0,
+      "detail": "Dummy Detail Come Form Api Any thing",
+      "material":"Dummy Detail Come From Api Anything",
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#d93939"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#a75713"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "category": "Bags",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia arcu in est malesuada, id iaculis odio aliquet. Nullam ac volutpat eros. Integer ac volutpat purus. Fusce quis quam eu arcu cursus convallis. Nullam congue tristique enim, eu iaculis odio consequat sit amet. Nullam vitae ultricies libero",
+      "discountPercentage": 31,
+      "id": 3,
+      "images": [
+        "/img/cards/TheReNewTransitWeekender_540x.jpg",
+        "/img/cards/TheReNewTransitWeekender2_540x.jpg"
+      ],
+      "length": 5,
+      "price": 60,
+      "subtotal": 0,
+      "rating": 4.69,
+      "title": "The New Weekender Bag",
+      "sizes": [
+        {
+          "Small": ["X-SM", "SM"],
+          "Medium": ["M"],
+          "Large": ["L", "XL", "XLL"]
+        }
+      ],
+      "new": 0,
+      "detail": "Dummy Detail Come Form Api Any thing",
+      "material":"Dummy Detail Come From Api Anything",
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#d93939"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#a75713"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "category": "Cloths",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia arcu in est malesuada, id iaculis odio aliquet. Nullam ac volutpat eros. Integer ac volutpat purus. Fusce quis quam eu arcu cursus convallis. Nullam congue tristique enim, eu iaculis odio consequat sit amet. Nullam vitae ultricies libero",
+      "discountPercentage": 69,
+      "id": 4,
+      "images": ["/img/cards/Tanktop.jpg", "/img/cards/TanktopHover.jpg"],
+      "length": 5,
+      "price": 100,
+      "subtotal": 0,
+      "rating": 4.69,
+      "title": "Stylish Winter Tops For Women",
+      "sizes": [
+        {
+          "Small": ["X-SM", "SM"],
+          "Medium": ["M"],
+          "Large": ["L", "XL", "XLL"]
+        }
+      ],
+      "new": 1,
+      "detail": "Dummy Detail Come Form Api Any thing",
+      "material":"Dummy Detail Come From Api Anything",
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#d93939"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#a75713"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "category": "Shoes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia arcu in est malesuada, id iaculis odio aliquet. Nullam ac volutpat eros. Integer ac volutpat purus. Fusce quis quam eu arcu cursus convallis. Nullam congue tristique enim, eu iaculis odio consequat sit amet. Nullam vitae ultricies libero",
+      "discountPercentage": 25,
+      "id":5,
+      "images": ["/img/cards/DayGlove.jpg", "/img/cards/DayGloveHover.jpg"],
+      "length": 5,
+      "price": 56,
+      "subtotal": 0,
+      "rating": 3.98,
+      "title": "Day Glove For Women",
+      "sizes": [
+        {
+          "Small": [21, 22, 23],
+          "Medium": [26, 27, 28],
+          "Large": [32, 33, 33]
+        }
+      ],
+      "new": 1,
+      "detail": "Dummy Detail Come Form Api Any thing",
+      "material":"Dummy Detail Come From Api Anything",
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#d93939"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#a75713"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "category": "Bags",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia arcu in est malesuada, id iaculis odio aliquet. Nullam ac volutpat eros. Integer ac volutpat purus. Fusce quis quam eu arcu cursus convallis. Nullam congue tristique enim, eu iaculis odio consequat sit amet. Nullam vitae ultricies libero",
+      "discountPercentage": 69,
+      "id": 6,
+      "images": [
+        "/img/cards/TheMiniFormBag_540x.jpg",
+        "/img/cards/TheMiniFormBag2_540x.jpg"
+      ],
+      "length": 5,
+      "price": 89,
+      "subtotal": 0,
+      "rating": 4.69,
+      "title": "The Mini Form Bag",
+      "sizes": [
+        {
+          "Small": ["X-SM", "SM"],
+          "Medium": ["M"],
+          "Large": ["L", "XL", "XLL"]
+        }
+      ],
+      "new": 1,
+      "detail": "Dummy Detail Come Form Api Any thing",
+      "material":"Dummy Detail Come From Api Anything",
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#d93939"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#a75713"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "category": "Shoes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia arcu in est malesuada, id iaculis odio aliquet. Nullam ac volutpat eros. Integer ac volutpat purus. Fusce quis quam eu arcu cursus convallis. Nullam congue tristique enim, eu iaculis odio consequat sit amet. Nullam vitae ultricies libero",
+      "discountPercentage": 10,
+      "id": 7,
+      "images": [
+        "/img/cards/mustard_sneakers.jpg",
+        "/img/cards/mustard_sneakerHover.jpg"
+      ],
+      "length": 5,
+      "price": 99,
+      "subtotal": 0,
+      "rating": 4.69,
+      "title": "Stylish Mustart Sneakers For Men",
+      "sizes": [
+        {
+          "Small": [21, 22, 23],
+          "Medium": [26, 27, 28],
+          "Large": [32, 33, 33]
+        }
+      ],
+      "new": 0,
+      "detail": "Dummy Detail Come Form Api Any thing",
+      "material":"Dummy Detail Come From Api Anything",
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#d93939"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#a75713"
+        }
+      ]
+    }
+  ]
+}
